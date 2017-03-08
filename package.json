@@ -1,0 +1,14 @@
+{
+  "name": "sitemap",
+  "version": "1.0.0",
+  "description": "Sitemap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Colorado <cristian@wedevelop.mx>",
+  "license": "ISC",
+  "dependencies": {
+    "sitemap-generator": "^6.0.0"
+  }
+}
